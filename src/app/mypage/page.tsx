@@ -1,5 +1,5 @@
 import React from "react";
-import Link from "next/link"
+
 import MyPageSidebarForm from "@/components/mypagesidebar/MyPageSidebarForm";
 import MyPageInfoForm from "@/components/mypageinfo/MyPageInfo";
 
